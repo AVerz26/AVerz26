@@ -1,50 +1,43 @@
-# 👋 Hello, I'm André Verzoto
+# 👋 Hello, I'm André Verzoto!
 
-Mechanical Engineer, graduated from **UNESP – Ilha Solteira**  2015-2019  
-MBA in **Data Science & Analytics** from **ESALQ/USP**  2022-2024
+Mechanical Engineer, graduated from **UNESP – Ilha Solteira**  Period: 2015-2019  
+MBA in **Data Science & Analytics** from **ESALQ/USP**  Period: 2022-2024
 
 ---
 
 ## 🛠️ Development Tools & Technologies
-- **Programming & Analysis:** Python, SQL (MySQL, PostgreSQL)  
-- **Applications & Dashboards:** Streamlit, Power Apps, Power BI  
-- **Automation & Workflow:** Power Automate  
+- **Programming:** Python, SQL (MySQL, PostgreSQL)  
+- **Applications & Dashboards:** Streamlit, Power Apps, Power BI, Grafana   
+- **Automation & Workflow:** Power Automate, n8n.
 
 ---
 
 ## 🧰 Skills & Expertise
-- **Data Analysis & Process Optimization:** Transforming data into actionable insights and improving workflows.  
+- **Data Extraction & Analysis:** Extracting data from anywhere using crawlers (Requests, BS4 and Selenium).  
 - **Application Development:** Building internal tools with Streamlit and Power Apps.  
 - **Database Management:** Structuring and integrating MySQL/PostgreSQL databases with dashboards (Grafana, Power BI).  
 - **Automation & Reporting:** Automating financial and production reports using Python, Power Automate, and TOTVS Datasul.  
-- **KPI Management:** Analyzing performance metrics and designing action plans for continuous improvement.  
 
 ---
 
 ## 💼 Selected Projects
 
-### Streamlit Zip Code App
+### Freelancer Jobs
+
+#### Streamlit Zip Code App
 - Input city name and radius → outputs spreadsheet with all zip codes in the area.  
 - Built with **Python, Streamlit, SQLite/Supabase**.  
 ![Streamlit Screenshot](link_da_imagem_aqui)
 
-### Production & Quality Dashboards
-- Developed dashboards integrating **MySQL + Grafana + Power BI**.  
-- Saved R$ 200,000/year by optimizing box traceability and reporting.  
+#### Daily Fuel Price Tracking Dashboard
+- Automated extraction of daily fuel price data from a source using web scraping (Selenium + requests).   
+- Data is stored in a MySQL database and visualized in an interactive Grafana dashboard for monitoring trends and insights.   
 ![Dashboard Screenshot](link_da_imagem_aqui)
-
-### Automation & Internal Tools
-- Automated financial and vacancy reporting using **Python + Power Automate + Power BI**.  
-- Estimated savings: R$ 16,000/year.  
-![Automation Screenshot](link_da_imagem_aqui)
 
 ---
 
 ## 📫 Contact Me
-- [LinkedIn](link_linkedin)  
-- [Email](mailto:seuemail@dominio.com)  
+- [LinkedIn]([link_linkedin](https://www.linkedin.com/in/andre-verzoto/))  
+- [Email](mailto:averzoto@gmail.com)  
 
----
 
-## ⚡ Fun Fact
-I love turning complex data into clear, actionable insights that help companies make smarter decisions.  
