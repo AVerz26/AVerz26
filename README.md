@@ -1,6 +1,6 @@
 # 👋 Hello, I'm André Verzoto
 
-Mechanical Engineer, graduated from **UNESP – Ilha Solteira**  2015-2019
+Mechanical Engineer, graduated from **UNESP – Ilha Solteira**  2015-2019  
 MBA in **Data Science & Analytics** from **ESALQ/USP**  2022-2024
 
 ---
