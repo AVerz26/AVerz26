@@ -1,7 +1,7 @@
-# 👋 Hello, I'm André Verzoto!
+# Hello, I'm André Verzoto!
 
-Mechanical Engineer, graduated from **UNESP – Ilha Solteira**  Period: 2015-2019  
-MBA in **Data Science & Analytics** from **ESALQ/USP**  Period: 2022-2024
+I am a Mechanical Engineer graduated from UNESP – Ilha Solteira and hold an MBA in Data Science & Analytics from ESALQ/USP, with a strong passion for extracting data from diverse sources, integrating it, and transforming it into actionable insights that drive informed decision-making.
+
 
 ---
 
@@ -20,24 +20,33 @@ MBA in **Data Science & Analytics** from **ESALQ/USP**  Period: 2022-2024
 
 ---
 
-## 💼 Selected Projects
+## 💼 Projects
 
-### Freelancer Jobs
-
-#### Streamlit Zip Code App
+### Streamlit Zip Code App
 - Input city name and radius → outputs spreadsheet with all zip codes in the area.  
-- Built with **Python, Streamlit, SQLite/Supabase**.  
-![Streamlit Screenshot](https://github.com/AVerz26/AVerz26/blob/main/Captura%20de%20tela%202025-09-01%20112029.png)
+- Built with **Python, Streamlit, Excel**.
+  
+![Screenshot](https://github.com/AVerz26/AVerz26/blob/main/Captura%20de%20tela%202025-09-01%20112029.png)
 
-#### Daily Fuel Price Tracking Dashboard
+### Daily Fuel Price Tracking Dashboard
 - Automated extraction of daily fuel price data from a source using web scraping (Selenium + requests).   
-- Data is stored in a MySQL database and visualized in an interactive Grafana dashboard for monitoring trends and insights.   
-![Dashboard Screenshot](https://github.com/AVerz26/AVerz26/blob/main/sample4.png)
+- Data is stored in a MySQL database and visualized in an interactive Grafana dashboard for monitoring trends and insights.
+- Built with **Python (requests + Selenium), MySQL, Grafana**.
+    
+![Screenshot](https://github.com/AVerz26/AVerz26/blob/main/sample4.png)
 
+### Full traceability of egg cartons from laying barns to shipment
+- Developed a solution using web scraping to collect data from third-party platforms, integrated the datasets, and visualized the results in Grafana dashboards.
+- **This project improved operational efficiency and generated annual savings of R$200,000.**
+- Built with **Power Apps and Automate, Python (Selenium + Pandas), MySQL, Grafana**.
+
+![Screenshot](https://github.com/AVerz26/AVerz26/blob/main/Captura%20de%20tela%202025-08-26%20163755.png)
+
+  
 ---
 
 ## 📫 Contact Me
-- [LinkedIn]([link_linkedin](https://www.linkedin.com/in/andre-verzoto/))  
+- [LinkedIn: André Verzoto](https://www.linkedin.com/in/andre-verzoto/) 
 - [Email](mailto:averzoto@gmail.com)  
 
 
