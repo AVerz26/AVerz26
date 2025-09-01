@@ -1,7 +1,14 @@
 # 👋 Hello, I'm André Verzoto
 
-Mechanical Engineer | Data Science Postgraduate (ESALQ/USP)  
-Python | SQL (MySQL, PostgreSQL) | Streamlit | Power Apps | Power Automate | Power BI  
+Mechanical Engineer, graduated from **UNESP – Ilha Solteira**  2015-2019
+MBA in **Data Science & Analytics** from **ESALQ/USP**  2022-2024
+
+---
+
+## 🛠️ Development Tools & Technologies
+- **Programming & Analysis:** Python, SQL (MySQL, PostgreSQL)  
+- **Applications & Dashboards:** Streamlit, Power Apps, Power BI  
+- **Automation & Workflow:** Power Automate  
 
 ---
 
