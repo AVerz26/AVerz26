@@ -27,12 +27,12 @@ MBA in **Data Science & Analytics** from **ESALQ/USP**  Period: 2022-2024
 #### Streamlit Zip Code App
 - Input city name and radius → outputs spreadsheet with all zip codes in the area.  
 - Built with **Python, Streamlit, SQLite/Supabase**.  
-![Streamlit Screenshot](link_da_imagem_aqui)
+![Streamlit Screenshot](https://github.com/AVerz26/AVerz26/blob/main/Captura%20de%20tela%202025-09-01%20112029.png)
 
 #### Daily Fuel Price Tracking Dashboard
 - Automated extraction of daily fuel price data from a source using web scraping (Selenium + requests).   
 - Data is stored in a MySQL database and visualized in an interactive Grafana dashboard for monitoring trends and insights.   
-![Dashboard Screenshot](link_da_imagem_aqui)
+![Dashboard Screenshot](https://github.com/AVerz26/AVerz26/blob/main/sample4.png)
 
 ---
 
