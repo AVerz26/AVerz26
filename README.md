@@ -56,7 +56,8 @@ I am a Mechanical Engineer graduated from UNESP – Ilha Solteira and hold an MB
 ---
 
 ## 📫 Contact Me
-- [LinkedIn: André Verzoto](https://www.linkedin.com/in/andre-verzoto/) 
+- [LinkedIn: André Verzoto](https://www.linkedin.com/in/andre-verzoto/)
+- [UpWork: Andre Verzoto](https://www.upwork.com/freelancers/andrev32)
 - [Email](mailto:averzoto@gmail.com)  
 
 
