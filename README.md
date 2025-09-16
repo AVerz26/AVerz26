@@ -22,6 +22,16 @@ I am a Mechanical Engineer graduated from UNESP – Ilha Solteira and hold an MB
 
 ## 💼 Projects
 
+### Streamlit Leads Finder App
+- Searches for leads in a specific industry/area within a chosen city.
+- After obtaining the lead’s website, the app scrapes it to extract:
+  - Public emails
+  - Public LinkedIn profiles
+- All data is consolidated into a single DataFrame.
+- Results can be displayed as a table and on a map within Streamlit.
+
+![Screenshot](https://github.com/AVerz26/AVerz26/blob/main/photo.png)
+
 ### Streamlit Zip Code App
 - Input city name and radius → outputs spreadsheet with all zip codes in the area.  
 - Built with **Python, Streamlit, Excel**.
