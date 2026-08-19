@@ -5,14 +5,14 @@ I am a Mechanical Engineer graduated from UNESP – Ilha Solteira and hold an MB
 
 ---
 
-## 🛠️ Development Tools & Technologies
+## Development Tools & Technologies
 - **Programming:** Python, SQL (MySQL, PostgreSQL)  
 - **Applications & Dashboards:** Streamlit, Power Apps, Power BI, Grafana   
 - **Automation & Workflow:** Power Automate, n8n.
 
 ---
 
-## 🧰 Skills & Expertise
+## Skills & Expertise
 - **Data Extraction & Analysis:** Extracting data from anywhere using crawlers (Requests, BS4 and Selenium).  
 - **Application Development:** Building internal tools with Streamlit and Power Apps.  
 - **Database Management:** Structuring and integrating MySQL/PostgreSQL databases with dashboards (Grafana, Power BI).  
@@ -20,7 +20,7 @@ I am a Mechanical Engineer graduated from UNESP – Ilha Solteira and hold an MB
 
 ---
 
-## 💼 Projects
+## Projects
 
 ### Streamlit Leads Finder App
 - Searches for leads in a specific industry/area within a chosen city.
@@ -55,7 +55,7 @@ I am a Mechanical Engineer graduated from UNESP – Ilha Solteira and hold an MB
   
 ---
 
-## 📫 Contact Me
+## Contact Me
 - [LinkedIn: André Verzoto](https://www.linkedin.com/in/andre-verzoto/)
 - [UpWork: Andre Verzoto](https://www.upwork.com/freelancers/andrev32)
 - [Email](mailto:averzoto@gmail.com)  
