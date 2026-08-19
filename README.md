@@ -1,4 +1,4 @@
-# Hello, I'm André Verzoto!
+# André Verzoto
 
 I am a Mechanical Engineer graduated from UNESP – Ilha Solteira and hold an MBA in Data Science & Analytics from ESALQ/USP, with a strong passion for extracting data from diverse sources, integrating it, and transforming it into actionable insights that drive informed decision-making.
 
