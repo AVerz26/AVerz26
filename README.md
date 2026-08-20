@@ -32,11 +32,13 @@ I am a Mechanical Engineer graduated from UNESP – Ilha Solteira and hold an MB
 
 ![Screenshot](https://github.com/AVerz26/AVerz26/blob/main/photo.png)
 
-### Streamlit Zip Code App
-- Input city name and radius → outputs spreadsheet with all zip codes in the area.  
-- Built with **Python, Streamlit, Excel**.
+### FlyerScout AI - Weekly Flyers Scraper
+- Fetches recent Instagram posts from configured supermarket accounts and saves images, extract with Vision AI and save the data into a SQLite database.
+- Indexed for instant price comparisons and historical price tracking.
+- Identifies the Lowest Price and Cheapest Supermarket for each product.
+- Built with **Python, JavaScript, HTML, SQLite**.
   
-![Screenshot](https://github.com/AVerz26/AVerz26/blob/main/Captura%20de%20tela%202025-09-01%20112029.png)
+![Screenshot](https://github.com/AVerz26/AVerz26/blob/main/architecture_flowchart.png)
 
 ### Daily Fuel Price Tracking Dashboard
 - Automated extraction of daily fuel price data from a source using web scraping (Selenium + requests).   
